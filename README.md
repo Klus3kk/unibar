@@ -1,5 +1,5 @@
-# UniversalToolbar
-UniversalToolbar is a powerful, cross-platform utility application developed in React Native. It combines a suite of essential tools, including financial management, advanced calculators, note-taking, task management, and a customizable dashboard. The application integrates real-time data from various APIs, providing users with weather updates, news aggregation, and productivity tracking, all within a single, user-friendly interface.
+# Unibar
+Unibar is a powerful, cross-platform utility application developed in React Native. It combines a suite of essential tools, including financial management, advanced calculators, note-taking, task management, and a customizable dashboard. The application integrates real-time data from various APIs, providing users with weather updates, news aggregation, and productivity tracking, all within a single, user-friendly interface.
 
 ## Features
 
